@@ -1,6 +1,6 @@
 class Parents:
 
-    hair = "brunet"
+    hair = "Brunet"
 
     def __init__(self, name="Parents_1", age=0, character="character"):
         self.name = name
@@ -8,4 +8,4 @@ class Parents:
         self.character = character
 
     def print_info(self):
-        print(f"{self.name} печет пироги")
+        print(f"{self.name} cooked pies")
