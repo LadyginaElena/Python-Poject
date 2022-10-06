@@ -1,6 +1,6 @@
 class Parents:
 
-    hair= "brunet"
+    hair = "brunet"
 
     def __init__(self, name="Parents_1", age=0, character="character"):
         self.name = name
